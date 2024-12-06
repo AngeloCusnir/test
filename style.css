@@ -4,3 +4,6 @@ body{
 p{
     font-size: 100px;   
 }
+h2{
+    text-align: right;
+}
